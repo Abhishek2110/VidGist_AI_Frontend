@@ -79902,7 +79902,7 @@ break
 case 7:o.ap(new A.afv(o))
 m=J.uw(n.a).c
 l=J.uw(n.a).b
-k=A.aCx("POST",A.fK("https://vidgistaibackend-production.up.railway.app//upload-video"))
+k=A.aCx("POST",A.fK("https://vidgistaibackend-production.up.railway.app/upload-video"))
 f=k.y
 e=m
 e.toString
@@ -79942,7 +79942,7 @@ break}n.ap(new A.afs(n,h))
 i.qt(B.My)
 p=4
 s=7
-return A.T(A.aJw(A.fK("https://vidgistaibackend-production.up.railway.app//ask?q="+A.j(h))),$async$ui)
+return A.T(A.aJw(A.fK("https://vidgistaibackend-production.up.railway.app/ask?q="+A.j(h))),$async$ui)
 case 7:m=b
 i=m
 l=B.cP.EP(A.aJh(A.aHb(i.e)).fE(i.w),null)
