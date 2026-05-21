@@ -87867,7 +87867,7 @@ uS(){var s=0,r=A.H(t.H),q=1,p=[],o=this,n,m,l,k,j,i
 var $async$uS=A.D(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:q=3
 s=6
-return A.C(A.atI(A.cZ("https://vidgistaibackend-production.up.railway.app/chat/list",0,null),A.atJ()),$async$uS)
+return A.C(A.atI(A.cZ("https://vidgist-ai-backend.onrender.com/chat/list",0,null),A.atJ()),$async$uS)
 case 6:n=b
 k=n
 m=B.ad.qe(0,A.wm(A.wa(k.e)).cI(0,k.w),null)
@@ -87891,7 +87891,7 @@ aos(a,b,c){var s=0,r=A.H(t.H),q=1,p=[],o=this,n,m,l,k,j,i
 var $async$Ak=A.D(function(d,e){if(d===1){p.push(e)
 s=q}for(;;)switch(s){case 0:q=3
 s=6
-return A.C(A.atI(A.cZ("https://vidgistaibackend-production.up.railway.app/chat/"+a,0,null),A.atJ()),$async$Ak)
+return A.C(A.atI(A.cZ("https://vidgist-ai-backend.onrender.com/chat/"+a,0,null),A.atJ()),$async$Ak)
 case 6:n=e
 k=n
 m=B.ad.qe(0,A.wm(A.wa(k.e)).cI(0,k.w),null)
@@ -87922,7 +87922,7 @@ break
 case 7:o.am(new A.amV(o))
 m=J.rb(n.a).c
 l=J.rb(n.a).b
-k=A.aMk("POST",A.cZ("https://vidgistaibackend-production.up.railway.app/upload-video",0,null))
+k=A.aMk("POST",A.cZ("https://vidgist-ai-backend.onrender.com/upload-video",0,null))
 k.r.N(0,A.atJ())
 f=k.y
 e=m
@@ -87970,7 +87970,7 @@ break}n.am(new A.amS(n,h))
 i.rF(0,B.OJ)
 p=4
 s=7
-return A.C(A.atI(A.cZ("https://vidgistaibackend-production.up.railway.app/ask?q="+A.Gr(2,h,B.M,!1)+"&video_id="+A.k(n.x)+"&chat_id="+A.k(n.y),0,null),A.atJ()),$async$rp)
+return A.C(A.atI(A.cZ("https://vidgist-ai-backend.onrender.com/ask?q="+A.Gr(2,h,B.M,!1)+"&video_id="+A.k(n.x)+"&chat_id="+A.k(n.y),0,null),A.atJ()),$async$rp)
 case 7:m=b
 i=m
 l=B.ad.qe(0,A.wm(A.wa(i.e)).cI(0,i.w),null)
